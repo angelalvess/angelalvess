@@ -15,7 +15,7 @@
     <img align="center" alt="Angel-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angel-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Angel-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Angel-yoda" src="https://i.gifer.com/3MfE.gif">
+    <img align="right" alt="Angel-yoda" src="https://giphy.com/embed/Ad1M7tVT6EP4vF6t8t" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
    
 

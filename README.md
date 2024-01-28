@@ -8,13 +8,14 @@
 - 📖 Currently studying Computer Science at FAM ...
 - 🤖 I’m currently learning Javascript, CSS and HTML ...
 - ✉️ Contact me at email: contatoangelalves@gmail.com
-
+<br>
 
  <div>
   <a href="https://github.com/angelalvess">
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=angelalvess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelalvess&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+<br>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelalvess&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  

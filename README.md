@@ -8,9 +8,9 @@
 
 
 
-- 📖 Currently studying Computer Science at FAM ...
-- 🤖 I’m currently learning Javascript, CSS and HTML ...
-- ✉️ Contact me at email: contatoangelalves@gmail.com
+- 📖 Currently studying Computer Science at FAM 
+- 🤖 I’m currently learning Javascript, CSS and HTML 
+
 <br>
 
  <div>

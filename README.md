@@ -15,7 +15,7 @@
     <img align="center" alt="Angel-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angel-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Angel-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" height="120" width"130" src="https://github.com/angelalvess/angelalvess/assets/132800405/acfad432-7bfd-4cf2-8d06-8acf832d80e1">
+    <img align="right" height="120" width"130" src="https://github.com/angelalvess/angelalvess/assets/132800405/a476cbf5-d5e6-4483-a8dd-e401a5463e9a">
 </div>
    
 

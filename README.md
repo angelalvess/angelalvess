@@ -22,12 +22,18 @@
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelalvess&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Angel-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Angel-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angel-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Angel-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="right" height="90" width"100" src="https://github.com/angelalvess/angelalvess/assets/132800405/a476cbf5-d5e6-4483-a8dd-e401a5463e9a">
-</div>
+<div align="center" style="display: inline_block"><br>
+     <img align="center"  height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
+     <img align="center"  height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg">
+     <img align="center"  height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg">
+     <img align="center"  height="35" width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg">
    
+   </div>
+   
+##
 
+ <div align="center" style="display: inline_block"> 
+    <a href="https://discord.gg/angelalvess" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/angell1000000"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/angelalvess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>

@@ -9,7 +9,7 @@
 
 
 - 📖 Currently studying Computer Science at FAM.
-- 🤖 I’m currently learning Javascript, CSS, HTML and React.js
+- 🤖 I’m currently learning Javascript, CSS, HTML and React.js.
 
 
 <br>

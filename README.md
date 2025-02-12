@@ -9,7 +9,7 @@
 
 
 - 📖 Currently studying Computer Science at FAM.
-- 🤖 I’m currently learning  Next.js, React.js, Javascript, Node.js, TailwindCSS ,HTML and CSS.
+- 🤖 I’m currently learning  Java, Spring Boot, Next.js, React.js, Javascript, Node.js, TailwindCSS ,HTML and CSS.
 
 
 <br>
